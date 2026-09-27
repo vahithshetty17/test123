@@ -22,9 +22,7 @@ test("add item to the cart", async({page})=>{
     await page.locator("//input[@id='last-name']").fill("vahith");
     await page.locator("//input[@id='postal-code']").fill("456745")
     console.log("GIT LEARNING")
-    console.log("Jenkins")
 
-})
 
 test("Naviagte to the breadscrumb", async({page})=>{
 
@@ -32,9 +30,16 @@ test("Naviagte to the breadscrumb", async({page})=>{
     await page.locator("(//a[normalize-space()='Logout'])[1]").click();
     console.log("avhith shetty")
    console.log("shetty")
+    console.log("GIT REBASE")
+    console.log("cicd")
+    
 
+
+})
+
+test("test1", async({page})=>{
+    console.log("i am learning")
 })
 
 
 })
-
