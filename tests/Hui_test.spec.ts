@@ -21,8 +21,8 @@ test("add item to the cart", async({page})=>{
     await page.locator("//input[@id='first-name']").fill("shetty")
     await page.locator("//input[@id='last-name']").fill("vahith");
     await page.locator("//input[@id='postal-code']").fill("456745")
-    console.log("vahith")
-    console.log("shetty")
+    console.log("GIT LEARNING")
+
 })
 
 test("Naviagte to the breadscrumb", async({page})=>{
