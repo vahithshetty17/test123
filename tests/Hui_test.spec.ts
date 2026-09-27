@@ -23,6 +23,7 @@ test("add item to the cart", async({page})=>{
     await page.locator("//input[@id='postal-code']").fill("456745")
 
     console.log("GIT LEARNING")
+    console.log("Jenkins")
 
 
 
