@@ -33,6 +33,9 @@ test("Naviagte to the breadscrumb", async({page})=>{
     console.log("avhith shetty")
    console.log("shetty")
     console.log("GIT REBASE")
+    console.log("cicd")
+    
+
 
 })
 
